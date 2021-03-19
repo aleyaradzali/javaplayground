@@ -2,6 +2,7 @@ package samples;
 
 public class Location {
 	private String var;
+	public String display = "Exercise 5";
 
 	public String getVar() {
 		return var;
@@ -10,6 +11,7 @@ public class Location {
 	public void setVar(String var) {
 		this.var = var;
 	}
+	
 	
 }
 
