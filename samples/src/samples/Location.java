@@ -2,7 +2,6 @@ package samples;
 
 public class Location {
 	private String var;
-	public String display = "Exercise 5";
 
 	public String getVar() {
 		return var;
